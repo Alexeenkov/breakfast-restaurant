@@ -853,6 +853,9 @@ ul {
 }
 
 @media (max-width: 599px) {
+    .header-menu {
+        min-height: auto;
+    }
     .about {
         flex-direction: column;
     }
