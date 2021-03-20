@@ -438,6 +438,10 @@ ul {
     line-height: 1.25;
 }
 
+.card-mobile {
+    display: none;
+}
+
 .price {
     font-size: 25px;
     color: #e58f00;
@@ -985,6 +989,6 @@ ul {
     .enjoy-meal__content {
         width: 100%;
         margin: 0;
-        padding: 0 15px 30px 15px;
+        padding: 0 15px 90px 15px;
     }
 }
