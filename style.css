@@ -926,7 +926,7 @@ ul {
         margin-left: 2%;
     }
     .card:nth-child(n+3) {
-        margin-top: 2%;
+        margin-top: 10%;
     }
     .card-mobile {
         display: block;
