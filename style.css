@@ -42,7 +42,7 @@ ul {
     position: relative;
     display: flex;
     flex-direction: column;
-    background-image: url("images/header/background.png");
+    background-image: url("images/header/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -365,7 +365,7 @@ ul {
     position: relative;
     margin-top: 180px;
     width: 100%;
-    background-image: url('images/main/enjoy-food.png');
+    background-image: url('images/main/enjoy-food.jpg');
     background-size: cover;
     background-position: center;
     padding: 195px 0;
@@ -1009,7 +1009,7 @@ ul {
         top: 0;
         left: 0;
         transform: none;
-        background-image: url('images/main/enjoy-food.png');
+        background-image: url('images/main/enjoy-food.jpg');
     }
     .enjoy-food__content .section-title,
     .enjoy-food__content .section-text {
